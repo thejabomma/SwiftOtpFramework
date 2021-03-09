@@ -1,0 +1,6 @@
+framework module Pods_ProjectSwiftOtpFramework {
+  umbrella header "Pods-ProjectSwiftOtpFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

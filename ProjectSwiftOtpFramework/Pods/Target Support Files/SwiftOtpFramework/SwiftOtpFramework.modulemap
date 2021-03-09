@@ -1,0 +1,6 @@
+framework module SwiftOtpFramework {
+  umbrella header "SwiftOtpFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

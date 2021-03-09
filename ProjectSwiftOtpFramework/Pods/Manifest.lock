@@ -1,0 +1,16 @@
+PODS:
+  - SwiftOtpFramework (1.0.0)
+
+DEPENDENCIES:
+  - SwiftOtpFramework (from `../SwiftOtpFramework/`)
+
+EXTERNAL SOURCES:
+  SwiftOtpFramework:
+    :path: "../SwiftOtpFramework/"
+
+SPEC CHECKSUMS:
+  SwiftOtpFramework: 742fadfd87bbcc62fb15c5ec678d0defa923242d
+
+PODFILE CHECKSUM: 982661c61337580b03a1bb4c7ffc551294f2ff9a
+
+COCOAPODS: 1.10.0
