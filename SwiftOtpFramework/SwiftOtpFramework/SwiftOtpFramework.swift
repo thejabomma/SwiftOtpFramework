@@ -15,6 +15,7 @@ public class MyNewFramework {
   
     public func testFunction() {
         print("This is test function")
+// commited
     }
     
     public func showAlert(message:String,viewController : UIViewController) {
